@@ -2,11 +2,6 @@
 
 This is a simple implementation of the Tic Tac Toe game using HTML, CSS, and JavaScript.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-
 ## Features
 
 - Classic Tic Tac Toe gameplay.
