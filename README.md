@@ -2,13 +2,13 @@
 
 This is a simple implementation of the Tic Tac Toe game using HTML, CSS, and JavaScript.
 
-## Features
+# Features
 
 - Classic Tic Tac Toe gameplay.
 - Responsive design suitable for various screen sizes.
 - Option to start a new game.
 
-## How to Play
+# How to Play
 
 - Click on any empty box in the grid to place your mark (X).
 - The game will automatically switch turns between players.
